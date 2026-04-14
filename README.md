@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Hosting4Harry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Hosting4Harry/Hosting4Harry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Haraprasad  
+- 👀 I’m interested in building scalable web applications, clean UI/UX, and solving real-world problems through code  
+- 🌱 I’m currently learning advanced system design, performance optimization, and improving testing strategies in modern frameworks  
+- 💞️ I’m looking to collaborate on full-stack projects, SaaS products, and developer tools  
+- 📫 How to reach me: tripathy.hp202@gmail.com | [LinkedIn](https://www.linkedin.com/in/haraprasad-tripathy/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy turning complex business requirements into simple, maintainable solutions  
